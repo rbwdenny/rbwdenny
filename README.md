@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/2J8jIHqqIr6tW/giphy.gif)
 
-I'm not uploading my code here. But i help others doing the opposite. Serious black stuff is under development.
+I'm not uploading my code here, But you gon feel the side effect. Serious black stuff is under development.
 
 Skills: GO, C++, ASM, C#
 
